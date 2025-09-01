@@ -17,7 +17,7 @@ const projectsData = [
     title: "Portfolio Website",
     description: "Personal portfolio website built with React and Tailwind CSS to showcase my projects and skills.",
     image: "https://i.ytimg.com/vi/nuJFjx44ILM/maxresdefault.jpg",
-    link: "#",
+    link: "https://amit-thakur-portfolio.onrender.com/",
   },
   {
     title: "WhatsApp Web Clone",
@@ -25,6 +25,13 @@ const projectsData = [
     image: "https://www.shutterstock.com/shutterstock/photos/2102420704/display_1500/stock-vector-business-people-working-together-they-are-wearing-vr-headsets-and-having-a-virtual-meeting-2102420704.jpg",
     link: "https://fullstack-web-app-l6v9.onrender.com/",
   },
+  {
+  title: "College Management System",
+  description: "A comprehensive web application built using ASP.NET Core MVC, Entity Framework, and SQL Server. It includes modules for student management, faculty, courses, attendance, timetable, and notices, with secure authentication using Identity.",
+  image: "https://repository-images.githubusercontent.com/356916985/cebcbf05-cf6a-4e55-9f28-a08d3c061919",
+  link: "https://collagemanagementsystem-frbma9cwf7erf5ap.canadacentral-01.azurewebsites.net/"
+}
+
 ];
 
 const Project = () => {
