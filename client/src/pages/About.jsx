@@ -17,16 +17,16 @@ const About = () => {
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
         viewport={{ once: true }}
-        className="bg-indigo-600 text-white py-20 px-10 text-center"
+        className="bg-indigo-600 text-white py-16 md:py-20 px-4 sm:px-6 md:px-10 text-center"
       >
-        <h1 className="text-5xl font-bold mb-4">About Me</h1>
-        <p className="text-xl max-w-2xl mx-auto">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">About Me</h1>
+        <p className="text-base sm:text-lg md:text-xl max-w-2xl mx-auto">
           I'm a passionate Backend Developer dedicated to building secure, scalable, and efficient applications. Learn more about my journey, expertise, and what drives me.
         </p>
       </Motion.section>
 
       {/* About Content */}
-      <section className="py-20 px-10 max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
+      <section className="py-14 md:py-20 px-4 sm:px-6 md:px-10 max-w-6xl mx-auto grid md:grid-cols-2 gap-10 md:gap-12 items-center">
         {/* Image */}
         <Motion.div
           initial={{ opacity: 0, x: -24 }}
@@ -71,7 +71,7 @@ const About = () => {
       </section>
 
       {/* Education & Experience Section */}
-      <section className="bg-white py-20 px-10">
+      <section className="bg-white py-14 md:py-20 px-4 sm:px-6 md:px-10">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12">
           {/* Education */}
           <Motion.div
@@ -124,7 +124,7 @@ const About = () => {
       </section>
 
       {/* Skills Highlights */}
-      <section className="py-20 px-10 max-w-6xl mx-auto">
+      <section className="py-14 md:py-20 px-4 sm:px-6 md:px-10 max-w-6xl mx-auto">
         <h2 className="text-3xl font-bold text-center text-indigo-600 mb-12">Core Competencies</h2>
         <div className="grid md:grid-cols-3 gap-8">
           <Motion.div
@@ -175,11 +175,11 @@ const About = () => {
         </div>
       </section>
 
-      {/* Resume Download Section */}
-      <section className="bg-indigo-600 text-white py-16 px-10 text-center">
-        <h2 className="text-4xl font-bold mb-4">Ready to Work Together?</h2>
-        <p className="text-lg mb-8 max-w-2xl mx-auto">
-          Download my resume to learn more about my experience, or get in touch to discuss how I can help with your project.
+      {/* CTA Section */}
+      <section className="bg-indigo-600 text-white py-14 md:py-16 px-4 sm:px-6 md:px-10 text-center">
+        <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Work Together?</h2>
+        <p className="text-base md:text-lg mb-8 max-w-2xl mx-auto">
+          I am available for projects and opportunities. Get in touch to discuss how I can help with your product.
         </p>
         <div className="flex justify-center">
           <button onClick={gotocontact} className="px-8 py-3 bg-indigo-500 text-white font-semibold rounded-full hover:bg-indigo-400 transition border-2 border-white">
