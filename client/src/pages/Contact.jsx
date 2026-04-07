@@ -22,7 +22,7 @@ const Contact = () => {
     e.preventDefault();
     if (formData.name && formData.email && formData.message) {
       // Create mailto link
-      const mailtoLink = `mailto:amit@example.com?subject=${encodeURIComponent(formData.subject || 'Portfolio Contact')}&body=${encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`)}`;
+      const mailtoLink = `mailto:thakuramitsingh165@gmail.com?subject=${encodeURIComponent(formData.subject || 'Portfolio Contact')}&body=${encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`)}`;
       window.location.href = mailtoLink;
       setSubmitted(true);
       setFormData({ name: '', email: '', subject: '', message: '' });
@@ -68,7 +68,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold">Email</h4>
-                    <p className="text-slate-300">amit@example.com</p>
+                    <p className="text-slate-300">thakuramitsingh165@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
@@ -77,7 +77,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold">Phone</h4>
-                    <p className="text-slate-300">+91-XXXXXXXXXX</p>
+                    <p className="text-slate-300">+91-9015385652</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
@@ -86,7 +86,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold">Location</h4>
-                    <p className="text-slate-300">India</p>
+                    <p className="text-slate-300">Chandigarh</p>
                   </div>
                 </div>
               </div>
