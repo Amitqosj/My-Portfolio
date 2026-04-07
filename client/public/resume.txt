@@ -1,0 +1,137 @@
+AMIT THAKUR
+Backend Developer
+
+📧 amit@example.com | 📞 +91-XXXXXXXXXX | 📍 India
+🔗 GitHub | LinkedIn | Portfolio: https://amit-thakur-portfolio.onrender.com/
+
+================================================================================
+
+PROFESSIONAL SUMMARY
+
+Dedicated Backend Developer with strong expertise in building scalable, secure, and 
+high-performance server-side applications. Proficient in .NET Core, ASP.NET, Node.js, 
+and modern database technologies. Passionate about clean code architecture, security 
+best practices, and continuous learning.
+
+================================================================================
+
+TECHNICAL SKILLS
+
+Backend Development
+  • ASP.NET Core & .NET Framework
+  • Node.js & Express.js
+  • RESTful API Design
+  • Microservices Architecture
+  • C# Programming
+
+Database Management
+  • SQL Server (Advanced)
+  • MongoDB (Advanced)
+  • Entity Framework
+  • Query Optimization
+  • Database Design & Architecture
+
+Frontend Development
+  • React & JavaScript (ES6+)
+  • HTML5, CSS3, Tailwind CSS
+  • Bootstrap Framework
+  • Responsive Design
+
+DevOps & Tools
+  • Git & GitHub
+  • Docker Containerization
+  • Postman API Testing
+  • Visual Studio & VS Code
+  • CI/CD Pipelines
+  • Cloud Platforms
+
+Other Competencies
+  • Security Best Practices
+  • Design Patterns
+  • Agile Methodology
+  • Clean Code Architecture
+
+================================================================================
+
+PROFESSIONAL EXPERIENCE
+
+Backend Developer
+Professional Experience | 2023 - Present
+  • Designed and implemented RESTful APIs serving 10K+ daily requests
+  • Optimized database queries reducing response time by 40%
+  • Developed microservices for scalable application architecture
+  • Implemented authentication and authorization mechanisms
+  • Collaborated with frontend teams to deliver integrated solutions
+
+Freelance Full-Stack Developer
+Self-Employed | 2022 - Present
+  • Built end-to-end web applications for multiple clients
+  • Delivered responsive web applications using React and Node.js
+  • Implemented database solutions for data-intensive applications
+  • Provided technical consultation and code reviews
+  • Maintained 98% client satisfaction rating
+
+================================================================================
+
+EDUCATION
+
+Bachelor of Technology
+Computer Science Engineering | 2020 - 2024
+  • Advanced coursework in databases, system design, and software engineering
+  • CGPA: 8.5/10
+
+Online Certifications
+  • Full-Stack Web Development
+  • .NET Core Mastery Course
+  • React & JavaScript Advanced Concepts
+  • Cloud Computing & Deployment
+
+================================================================================
+
+KEY PROJECTS
+
+Portfolio Website
+  • Modern, responsive portfolio built with React and Tailwind CSS
+  • Features theme switching and fully functional contact form
+  • Live: https://amit-thakur-portfolio.onrender.com/
+
+Premium Ride Next
+  • Ride-sharing platform with real-time tracking
+  • Backend: ASP.NET Core, MongoDB
+  • Frontend: React
+  • Secure payment integration
+
+Car Rental System
+  • Comprehensive vehicle booking and management platform
+  • Features: Automated billing, inventory management, reporting
+  • Tech Stack: .NET Core, SQL Server, React
+
+================================================================================
+
+ACHIEVEMENTS & HIGHLIGHTS
+
+✓ Developed production-grade applications handling thousands of daily users
+✓ Optimized backend performance resulting in 40% faster response times
+✓ Implemented security best practices preventing vulnerabilities
+✓ Mentored junior developers on coding standards and best practices
+✓ Successfully deployed applications on cloud platforms
+✓ Built reusable components and libraries for team efficiency
+
+================================================================================
+
+LANGUAGES
+
+English - Fluent
+Hindi - Native
+
+================================================================================
+
+INTERESTS
+
+  • Learning new backend technologies
+  • Contributing to open-source projects
+  • Writing technical blog posts
+  • System design and architecture
+  • Cloud computing and DevOps
+
+================================================================================
